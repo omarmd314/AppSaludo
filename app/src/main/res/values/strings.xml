@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppSaludo</string>
+    <string name="appname">App de Saludos</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvEdad">Edad</string>
+    <string name="tvCelular">Celular</string>
+    <string name="tvEmail">Email</string>
+    <string name="tbNombre">Ingrese su nombre</string>
+    <string name="tbEdad">Ingrese su edad </string>
+    <string name="tbCelular">Ingrese su celular</string>
+    <string name="tbEmail">Ingrese su email</string>
+    <string name="btnSaludar">Saludar</string>
+
+    <string name="idNombre">txtNombre</string>
+    <string name="idEdad">txtEdad</string>
+    <string name="idCelular">txtCelular</string>
+    <string name="idEmail">txtEmail</string>
+</resources>
